@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jacob
+- 👀 I’m interested in a lot of things
+- 🌱 I’m currently learning Haxe, and Lua.
